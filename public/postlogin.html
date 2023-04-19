@@ -19,6 +19,9 @@
                 document.getElementById('continueButton').onclick = () => {
                     window.location.href = redirectUri;
                 };
+                setTimeout(function() {
+                    window.location.href = redirectUri;
+                }, 2000);
             });
         </script>
 
