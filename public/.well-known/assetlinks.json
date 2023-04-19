@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sg.greateasternlife.geapp",
+    "sha256_cert_fingerprints":
+    ["F4:4E:99:27:64:B9:31:E7:AD:5F:32:22:D1:25:F6:C0:F9:72:DD:FF:54:3A:62:3D:54:0E:C8:19:37:EF:13:16"]
+  }
+}]
